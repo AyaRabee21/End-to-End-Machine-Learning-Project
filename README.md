@@ -95,7 +95,3 @@ python app.py
 
 **6. Access the App:**
 Open your web browser and go to `http://127.0.0.1:5000/` to interact with the prediction interface.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
