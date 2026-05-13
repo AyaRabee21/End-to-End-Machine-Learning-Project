@@ -49,7 +49,7 @@ To run this project locally, follow these steps:
 **1. Clone the repository:**
 
 ```bash
-git clone [https://github.com/AyaRabee21/End-to-End-Machine-Learning-Project.git](https://github.com/AyaRabee21/End-to-End-Machine-Learning-Project.git)
+git clone https://github.com/AyaRabee21/End-to-End-Machine-Learning-Project.git
 cd End-to-End-Machine-Learning-Project
 
 ```
