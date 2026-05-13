@@ -36,3 +36,66 @@ End-to-End-Machine-Learning-Project/
 ├── requirements.txt        # List of project dependencies and libraries
 └── setup.py                # Setup script to package the project as a Python module
 ```
+## 📊 Model Performance
+Multiple regression models were trained and evaluated. The performance was measured using R2 Score, Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE).
+
+The Ridge and Linear Regression models yielded the best results on the test data.
+<img width="337" height="349" alt="models_per" src="https://github.com/user-attachments/assets/5aabe0fb-9045-4a9a-9c2e-322997dcbc59" />
+
+## 🛠️ Installation and Setup
+
+To run this project locally, follow these steps:
+
+**1. Clone the repository:**
+
+```bash
+git clone [https://github.com/AyaRabee21/End-to-End-Machine-Learning-Project.git](https://github.com/AyaRabee21/End-to-End-Machine-Learning-Project.git)
+cd End-to-End-Machine-Learning-Project
+
+```
+
+**2. Create a virtual environment:**
+It is highly recommended to use a virtual environment to manage dependencies.
+
+```bash
+python -m venv venv
+
+```
+
+**3. Activate the virtual environment:**
+
+* For **Windows**:
+```bash
+venv\Scripts\activate
+
+```
+
+
+* For **macOS/Linux**:
+```bash
+source venv/bin/activate
+
+```
+
+
+
+**4. Install the required dependencies:**
+
+```bash
+pip install -r requirements.txt
+
+```
+
+**5. Run the Flask Web Application:**
+
+```bash
+python app.py
+
+```
+
+**6. Access the App:**
+Open your web browser and go to `http://127.0.0.1:5000/` to interact with the prediction interface.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
