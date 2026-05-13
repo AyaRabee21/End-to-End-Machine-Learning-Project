@@ -15,6 +15,7 @@ The project covers the entire machine learning lifecycle: from Exploratory Data 
 
 ## 📁 Project Structure
 The repository is structured professionally to separate concerns, making it scalable and easy to maintain:
+<img width="5875" height="917" alt="1" src="https://github.com/user-attachments/assets/586f5358-be66-4776-953f-132b84939a23" />
 
 ```text
 End-to-End-Machine-Learning-Project/
@@ -34,5 +35,4 @@ End-to-End-Machine-Learning-Project/
 ├── app.py                  # Main entry point for the Flask web application
 ├── requirements.txt        # List of project dependencies and libraries
 └── setup.py                # Setup script to package the project as a Python module
-## Project Structure
-<img width="5875" height="917" alt="1" src="https://github.com/user-attachments/assets/586f5358-be66-4776-953f-132b84939a23" />
+```
